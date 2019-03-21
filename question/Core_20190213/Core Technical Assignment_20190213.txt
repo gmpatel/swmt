@@ -1,0 +1,46 @@
+Technical assignment
+====================
+
+The purpose of this assignment is to review your experience in .NET (either 4.6
+or dotnetcore) & C#. Even thought that the underlying task itself is very simple;
+we will be looking at following when analysing your solution;
+
+  * Structure of your application
+  * Testability
+  * Reusability
+  * Readability
+  * Performance
+
+In a nutshell, it needs to be “production quality”.
+
+Supplied
+========
+
+Example file formatted with JSON on every row
+e.g.
+{ "id": 31, "first": "Jill", "last": "Scott", "age":66 }
+
+Note: It might or might not be a valid JSON structure.
+
+Delivery
+========
+1. Please use github – send us the link once you have completed the brief.
+
+Task
+====
+Please write a console application that outputs (no interaction needed):
+
+  * The users full name for id=42
+  * All the users first names (comma separated) who are 23
+  * The number of genders per Age, displayed from youngest to oldest
+    e.g
+        Age : 17 Female: 2 Male: 3
+        Age : 18 Female: 6 Male: 3
+
+Considerations
+==============
+
+  1. The data source may change.
+  2. The way source is fetched may change.
+  3. The number of records may change (performance).
+  4. The functionality may not always be consumed in a console app.
