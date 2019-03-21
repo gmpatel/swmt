@@ -38,10 +38,11 @@ Please write a console application that outputs (no interaction needed):
   * The users full name for id=42
   * All the users first names (comma separated) who are 23
   * The number of genders per Age, displayed from youngest to oldest
+    ```
     e.g
-        Age : 17 Female: 2 Male: 3
-        Age : 18 Female: 6 Male: 3
-
+      Age : 17 Female: 2 Male: 3
+      Age : 18 Female: 6 Male: 3
+    ```
 ## Considerations
 
   1. The data source may change.
