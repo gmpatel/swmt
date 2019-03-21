@@ -102,7 +102,7 @@ dotnet add package xunit.runner.visualstudio
 
 * Mac
 * Linux Ubuntu
-* Visual Studio Code
+* Studio Code
 * NetCore 2.2
 * NetCore CLI
 * **NOTE** Haven't used `Microsoft Visual Studio` & `Resharper` at all.
