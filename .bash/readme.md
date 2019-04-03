@@ -27,11 +27,11 @@ Your solution must acquire conversion rates via the REST api provided by fixer.i
 
 The cartesian product excluding matching _base_ and _target_ pairs of the following currencies should be supported:
 
--        AUD;
--        SEK;
--        USD; 
--        GBP;
--        EUR.
+* AUD;
+* SEK;
+* USD; 
+* GBP;
+* EUR.
 
 Extensibility should be considered.
 
